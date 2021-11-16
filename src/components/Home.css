@@ -1,0 +1,65 @@
+.home{
+    text-align: center;
+}
+
+
+.actualPage .words{
+    margin: 50px 0px;;
+}
+
+.actualPage .words h1{
+    margin-bottom: 5px;
+}
+
+.actualPage .words p{
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 50%
+    width
+}
+
+.images img{
+    flex-direction: row;
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    padding: 20px 20px;
+
+}
+
+.images .box{
+    background-color:paleturquoise;
+    color: black;
+}
+
+.images .box:hover{
+    background-color: coral;
+    opacity: 0.7;
+}
+
+.images .box:hover h2{
+    visibility: visible;
+}
+
+.box h2{
+    padding: 20px 10px;
+    background-color: coral;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    visibility: hidden;
+    font-size: 20px;
+}
+
+.box {
+    position: relative;
+    text-align: center;
+}
+

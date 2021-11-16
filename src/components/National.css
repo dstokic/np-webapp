@@ -1,0 +1,54 @@
+
+.options{
+    margin: 40px 0px 25px;
+    text-align: center;
+}
+
+.images .name-box{
+    height: 200px;
+    width: 200px;
+    background-color: paleturquoise;
+}
+
+/*DROPDOWN FORMATTING*/
+.dropbtn{
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+}
+  
+.dropdown{
+position: relative;
+display: inline-block;
+}
+  
+.dropdown-content{
+display: none;
+position: absolute;
+background-color: whitesmoke;
+min-width: 220px;
+text-align: left;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.dropdown-content a{
+color: black;
+padding: 12px 14px;
+text-decoration: none;
+display: block;
+}
+
+.dropdown-content a:hover{
+    background-color: lightsalmon;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown:hover .dropbtn{
+    background-color: coral;
+}

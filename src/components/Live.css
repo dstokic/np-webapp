@@ -1,0 +1,44 @@
+
+.feed{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 50%;
+}
+
+.feed iframe{
+    flex-direction: row;
+    height: 65vh;
+    width: 90vw;
+    object-fit: cover;
+    padding: 20px 20px;
+}
+
+.feed .feed-box{
+    background-color:paleturquoise
+}
+
+.feed-search{
+    margin: 40px 0px 25px;
+    text-align: center;
+}
+
+.feed-search input{
+    margin: 0px 5px;
+    width: 100px;
+}
+
+.feed-search #parkName{
+    width: 400px;
+}
+
+.feed-search #submit{
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 7px 0px;
+}
+
+#submit:hover{
+    background-color: coral;
+}
