@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/np-webapp/static/css/main.2d059b21.chunk.css",
+    "main.js": "/np-webapp/static/js/main.b0178154.chunk.js",
+    "main.js.map": "/np-webapp/static/js/main.b0178154.chunk.js.map",
+    "runtime-main.js": "/np-webapp/static/js/runtime-main.6436e185.js",
+    "runtime-main.js.map": "/np-webapp/static/js/runtime-main.6436e185.js.map",
+    "static/js/2.69f22ced.chunk.js": "/np-webapp/static/js/2.69f22ced.chunk.js",
+    "static/js/2.69f22ced.chunk.js.map": "/np-webapp/static/js/2.69f22ced.chunk.js.map",
+    "static/js/3.96bea8b9.chunk.js": "/np-webapp/static/js/3.96bea8b9.chunk.js",
+    "static/js/3.96bea8b9.chunk.js.map": "/np-webapp/static/js/3.96bea8b9.chunk.js.map",
+    "index.html": "/np-webapp/index.html",
+    "static/css/main.2d059b21.chunk.css.map": "/np-webapp/static/css/main.2d059b21.chunk.css.map",
+    "static/js/2.69f22ced.chunk.js.LICENSE.txt": "/np-webapp/static/js/2.69f22ced.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6436e185.js",
+    "static/js/2.69f22ced.chunk.js",
+    "static/css/main.2d059b21.chunk.css",
+    "static/js/main.b0178154.chunk.js"
+  ]
+}
